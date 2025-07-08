@@ -1,0 +1,7 @@
+pyautogui
+psutil
+pystray
+Pillow
+keyboard
+wmi
+configparser

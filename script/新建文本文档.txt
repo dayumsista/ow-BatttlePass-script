@@ -1,0 +1,3 @@
+nuitka --standalone --follow-imports --remove-output --no-pyi-file --enable-plugin=tk-inter Rein.py
+
+nuitka --standalone --follow-imports --remove-output --no-pyi-file --enable-plugin=tk-inter Rein1080.py
