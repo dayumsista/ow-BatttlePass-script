@@ -1,3 +1,9 @@
+## 重要提醒
+- 本项目纯为爱发电，也从未公布过任何收款方式，单纯因为对守望先锋的热爱。如果你是购买到了与本产品类似的软件，或者花钱享受到了本产品的服务，大概率你被骗了，建议联系商家退款。
+- 本项目使用CC BY-NC 4.0许可证，不允许商业使用。
+- 最后，如果你真的想卖本项目赚钱，请点 [这里了解](https://www.baidu.com/s?wd=%E5%AD%A4%E5%84%BF%E6%80%8E%E4%B9%88%E5%8A%9E%E6%88%B7%E5%8F%A3%E6%9C%AC)
+
+
 1.安装anaconda和vscode
 
 2.vscode的扩展(快捷键Ctrl Shift X)安装Python拓展(必须)和Chinese语言(如果你需要)
@@ -30,3 +36,8 @@ ctypes + user32.dll 出现过追封行为 自追封后本项目便搁置
 
 ![image](https://github.com/user-attachments/assets/5d521c8f-5416-4d33-b7ed-5d9087538ac4)
 此项目从2024年国庆前维护至今
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
+You may use, modify, and share the code **for non-commercial purposes only**, and must credit the original author: **dayumsista**.
